@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in studying brain network organizaiton in neurodevelopmental populations.
 
-- 🌱 I’m currently a rising 2nd year PhD student at UCSD working with Dr. Deanna Greene.
+- 🌱 I’m currently a 2nd year PhD student at UCSD working with Dr. Deanna Greene.
 
 - 💞️ I’m looking to collaborate on projects using ABCD data, specifically investigating resting state functional connectivity.
 
